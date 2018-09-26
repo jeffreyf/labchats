@@ -45,6 +45,13 @@ Here you can either list a paper to present yourself, but feel free to put a pap
     <td> C. Ledig et al. </td>
     <td> Will Stone </td>
     <td> 12 June 2018 </td>
+  </tr>
+  <tr>
+    <td><a href="https://arxiv.org/abs/1803.00885">Essentially No Barriers in Neural Network Energy Landscape</a></td>
+    <td> Draxler et al. </td>
+    <td> Jeff Fillingham </td>
+    <td> 26 September 2018 </td>
+  </tr>
 </table>
 
 ## Tutorials
